@@ -7,7 +7,7 @@ int main()
     
     cout << "HEy" << endl;
     //algorithm
-    //this is not valid c++ code!
+    this is not valid c++ code!
     
     return 0;
 }
